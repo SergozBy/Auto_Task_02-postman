@@ -1,1 +1,2 @@
 [![Java CI with Gradle](https://github.com/SergozBy/Auto_Task_02-postman/actions/workflows/gradle.yml/badge.svg)](https://github.com/SergozBy/Auto_Task_02-postman/actions/workflows/gradle.yml)
+[![Build status](https://ci.appveyor.com/api/projects/status/erxxwgnduq4llj29?svg=true)](https://ci.appveyor.com/project/Sergey79535/auto-task-02-postman)
