@@ -22,7 +22,7 @@ public class PostmanEchoTest {
                 // Fixed
                 .body("data", equalTo("some data"))
                 // My request
-                .body("host", equalTo("postman-echo.com"))
+                .body("url", equalTo("https://postman-echo.com/post"))
         ;
     }
 }
