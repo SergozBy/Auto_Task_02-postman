@@ -19,8 +19,10 @@ public class PostmanEchoTest {
         // Проверки
                 .then()
                 .statusCode(200)
-                // FIXME
+                // Fixed
                 .body("data", equalTo("some data"))
+                // My request
+                .headers("host", equalTo("postman-echo.com"))
         ;
     }
 }
